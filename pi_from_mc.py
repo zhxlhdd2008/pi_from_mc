@@ -1,6 +1,6 @@
 import random
 
-ofile = 'pi.dat'
+ofile = 'num_pi.dat'
 fo = file(ofile,'w')
 
 num_pi    = 0.0
