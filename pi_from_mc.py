@@ -5,7 +5,7 @@ fo = file(ofile,'w')
 
 num_pi    = 0.0
 
-nparticle = 10000000
+nparticle = 1000000
 i_cicle   = 0
 i_square  = 0
 for i in range(nparticle):
